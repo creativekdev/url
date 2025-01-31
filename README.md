@@ -1,7 +1,7 @@
 # url
 
-https://drive.google.com/drive/folders/1mYdY9pPQIE1HMXf5w5XbaZAO0fniE7WP?usp=sharingz
-<br>
-https://gradle.org/next-steps/?version=8.12&format=bin
-<br>
-https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.17.0-windows-x86_64.zip
+https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/download/v8.0/ComfyUI_Windows_portable_cu124.7z.001
+<br/>
+https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/download/v8.0/ComfyUI_Windows_portable_cu124.7z.002
+<br/>
+https://github.com/YanWenKun/ComfyUI-Windows-Portable/releases/download/v8.0/models.zip.001

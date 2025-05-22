@@ -27,3 +27,7 @@ https://drive.google.com/file/d/1egW971SypgG6pzbn7pfwxZr-lc5nQQh1/view?usp=shari
 ## HiSilicon
 
 https://sendgb.com/vJEdcKZfNts
+
+## LLM models research
+
+https://sendgb.com/2lyB3UY9ScC

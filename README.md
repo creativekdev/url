@@ -35,8 +35,25 @@ https://dl3.downloadly.ir/Files/Software/JetBrains_ja_netfilter_all_Build_2024.1
 
 https://dl3.downloadly.ir/Files/Software/JetBrains_ja_netfilter_all_Activation_Codes_Build_220801_Downloadly.ir.rar?nocache=1748339683790
 
-
 https://dl3.downloadly.ir/Files/Software/JetBrains_Activation_Code_Expire_20210304_Downloadly.ir.rar?nocache=1748339683790
+
+
+## FastStoneCapture
+
+https://dl1.downloadly.ir/Files/Software/FastStone_Capture_11.0_Multilingual_Downloadly.ir.rar?nocache=1748340285188
+
+https://dl2.downloadly.ir/Files/Software/FastStone_Capture_10.9_Multilingual_Downloadly.ir.rar?nocache=1748340285188
+
+https://dl.downloadly.ir/Files/Software/FastStone_Capture_9.3_Portable_Downloadly.ir.rar?nocache=1748340285188
+
+## Paycharm_FastStone pages
+
+https://drive.google.com/file/d/1KC2vGkliJd4UPrjOOWO12QYOA45AS8nS/view?usp=sharing
+
+
+
+
+
 
 
 

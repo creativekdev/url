@@ -32,6 +32,10 @@ https://dl3.downloadly.ir/Files/Software/JetBrains_ja_netfilter_all_Activation_C
 
 https://dl3.downloadly.ir/Files/Software/JetBrains_Activation_Code_Expire_20210304_Downloadly.ir.rar?nocache=1748339683790
 
+## Renamer
+
+https://drive.google.com/file/d/10uYKWVxCVaEbPCfAv3sWqcsvpvryGWlc/view?usp=sharing
+
 ## FastStoneCapture
 
 https://dl1.downloadly.ir/Files/Software/FastStone_Capture_11.0_Multilingual_Downloadly.ir.rar?nocache=1748340285188

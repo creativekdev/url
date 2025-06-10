@@ -1,4 +1,7 @@
 # url
+## LM Studio
+
+https://installers.lmstudio.ai/win32/x64/0.3.16-8/LM-Studio-0.3.16-8-x64.exe
 
 ## Corpus
 

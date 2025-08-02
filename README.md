@@ -1,8 +1,5 @@
 # url
 
-### GPT4All
+### LM Studio / page save
 
-https://drive.google.com/file/d/1vwsT3ClrfpeJbup8jH4bDhIfbx_uT780/view?usp=sharing
-
-### Dataupload
-https://drive.google.com/file/d/1iRPIIVXGJbeLTIlILiuAIOkD_CyHiKZ0/view?usp=sharing
+https://drive.google.com/file/d/1v-UNq4VyNo091MHtq3-g2_SvowmvCI8v/view?usp=sharing

@@ -27,10 +27,9 @@ https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_Masters_2025_LLMs_
 https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_Masters_2025_LLMs_Prompt_Engineering_More_2025-5_Downloadly.ir.part6.rar?nocache=1754483709507
 
 ### Tools
-https://dl1.downloadly.ir/Files/Software/Coolmuster_Android_Assistant_5.2.60_Downloadly.ir.rar?nocache=1754483952825
-https://dl.downloadly.ir/Files/Software/Coolmuster_Android_Assistant_4.11.19_Downloadly.ir.rar?nocache=1754483952825
-https://dl.downloadly.ir/Files/Software/Coolmuster_Android_Assistant_4.10.46_Portable_Downloadly.ir.rar?nocache=1754483952825
-https://dl.downloadly.ir/Files/Software/Coolmuster_Android_Assistant_for_Mac_3.0.189_macOS_Downloadly.ir.rar?nocache=1754483952825
+https://downloadly.ir/software/mobile-tools/coolmuster-android-assistant/
+
+https://downloadly.ir/software/mobile-tools/kingo-root/
 
 
 

@@ -4,6 +4,9 @@
 
 https://drive.google.com/file/d/1v-UNq4VyNo091MHtq3-g2_SvowmvCI8v/view?usp=sharing
 
+### LM Studio Model
+
+https://drive.google.com/file/d/11OR-yvhOlOUCKSGWLpptz_qjhl3RcwV4/view?usp=sharing
 
 ### Udemy video tutorials
 

@@ -1,5 +1,9 @@
 # url
 
+### RASA
+
+https://drive.google.com/file/d/1S3k2wVTwdP-5PuP07hwA0UoP4UFbZpH_/view?usp=sharing
+
 ### LM Studio / page save
 
 https://drive.google.com/file/d/1v-UNq4VyNo091MHtq3-g2_SvowmvCI8v/view?usp=sharing

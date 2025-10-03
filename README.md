@@ -13,3 +13,6 @@ https://downloadly.ir/software/engineering-specialized/esri-arcgis-desktop-addon
 
 
 https://downloadly.ir/software/engineering-specialized/arcgis-server/
+
+
+https://files.mcneel.com/dujour/exe/20250908/rhino_en-us_8.23.25251.13001.exe

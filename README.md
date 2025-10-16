@@ -1,5 +1,9 @@
 # url
 
+## GPT-OSS
+https://drive.google.com/file/d/1oegdYa5MXd5ze6kQZqzzdSI7Nm-ZBVRY/view?usp=sharing
+
+## Others
 https://filecr.com/windows/trimble-ecognition-developer/
 
 

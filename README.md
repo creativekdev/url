@@ -2,7 +2,7 @@
 ## Additional
 
 https://pixeldrain.com/u/gxbAp4Qj
-
+https://files.mcneel.com/dujour/exe/20250908/rhino_en-us_8.23.25251.13001.exe
 ## GPT-OSS
 https://drive.google.com/file/d/1oegdYa5MXd5ze6kQZqzzdSI7Nm-ZBVRY/view?usp=sharing
 
@@ -22,4 +22,4 @@ https://downloadly.ir/software/engineering-specialized/esri-arcgis-desktop-addon
 https://downloadly.ir/software/engineering-specialized/arcgis-server/
 
 
-https://files.mcneel.com/dujour/exe/20250908/rhino_en-us_8.23.25251.13001.exe
+

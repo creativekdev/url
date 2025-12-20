@@ -1,6 +1,10 @@
 
 # url
 
+## GPT-OSS
+
+https://github.com/creativekpioneer/gpt-oss
+
 ## Health care
 
 https://pixeldrain.com/u/bWrknn2W

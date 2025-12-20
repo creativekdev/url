@@ -7,7 +7,7 @@ https://pixeldrain.com/u/GYtA4iGJ
 
 ## GPT-OSS
 
-https://github.com/creativekpioneer/gpt-oss
+https://pixeldrain.com/u/XaQNMvRC
 
 ## Health care
 

@@ -1,6 +1,10 @@
 
 # url
 
+## In Adroid Emulator
+
+https://pixeldrain.com/u/HrPaMLU4
+
 ## Chat from GPT
 
 https://pixeldrain.com/u/fTAGWhzo

@@ -3,6 +3,8 @@
 
 ## In Adroid Emulator
 
+https://pixeldrain.com/u/dXUr5sVe
+
 https://pixeldrain.com/u/HrPaMLU4
 
 ## Chat from GPT

@@ -3,7 +3,7 @@
 
 ### Hugging Face
 
-https://drive.google.com/file/d/1gpWG4JLNkRW_T4NIvcBUdW4YrLmM40dE/view?usp=sharing
+https://drive.google.com/drive/folders/1odEpihfW4y7ihdjN00FpwhmWizZGPqU2?usp=sharing
 
 
 ## IME

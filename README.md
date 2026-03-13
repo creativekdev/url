@@ -2,25 +2,6 @@
 # url
 
 
-### libgen_DB, SiteCopy, Git Clon, Product Search, Search and download, pyenv, neo4j plugins
+### libgen_DB
 
-https://pixeldrain.com/u/rdmgzgY4
-
-https://pixeldrain.com/u/UZjiMkzG
-
-https://pixeldrain.com/u/ctuRWFHE
-
-https://pixeldrain.com/u/nPLNvXY7
-
-### Hugging Face2
-
-https://drive.google.com/drive/folders/1hpuBYiV_IreLom38DNZZZfuzOouPmlkC?usp=sharing
-
-### Hugging Face
-
-https://drive.google.com/drive/folders/1odEpihfW4y7ihdjN00FpwhmWizZGPqU2?usp=sharing
-
-
-## IME
-
-https://pixeldrain.com/u/RHMx1r6n
+https://archive.org/download/libgen-20250603/libgen_compact_2025-06-03.rar

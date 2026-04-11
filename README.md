@@ -4,6 +4,8 @@
 
 https://pixeldrain.com/u/htNWNZXs
 
+https://pixeldrain.com/u/q1Aeihb2
+
 ### libgen_DB
 
 https://archive.org/download/libgenplus-meta-20251101-partial/libgen_new_magazines-2025-11-01.rar

@@ -1,5 +1,10 @@
 
 # url
+### HalCon
+https://codeload.github.com/lovelyyoshino/Halcon_licenses/zip/refs/heads/master
+
+
+
 ### English Learning models
 
 https://pixeldrain.com/u/htNWNZXs

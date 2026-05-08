@@ -3,6 +3,8 @@
 ### HalCon
 https://codeload.github.com/lovelyyoshino/Halcon_licenses/zip/refs/heads/master
 
+https://pixeldrain.com/u/hvTer1GQ
+
 ### Egg gender detection
 
 https://pixeldrain.com/u/3wKm6xT6

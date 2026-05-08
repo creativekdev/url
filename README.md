@@ -7,6 +7,8 @@ https://codeload.github.com/lovelyyoshino/Halcon_licenses/zip/refs/heads/master
 
 https://pixeldrain.com/u/3wKm6xT6
 
+https://pixeldrain.com/u/ZddqLqgn
+
 ### English Learning models
 
 https://pixeldrain.com/u/htNWNZXs

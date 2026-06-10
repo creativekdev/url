@@ -1,7 +1,7 @@
 
 # url
 
-### TTS model
+### TTS model(6.10)
 https://pixeldrain.com/u/jB5VQ2Vp
 
 ### nanoGPT (6.10)

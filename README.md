@@ -1,6 +1,10 @@
 
 # url
 
+### Lip-sync(6.12)
+
+https://pixeldrain.com/u/MLy26CH6
+
 ### TTS model(6.10)
 https://pixeldrain.com/u/jB5VQ2Vp
 

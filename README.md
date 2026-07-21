@@ -1,10 +1,6 @@
 
 # url
 
-### Milk Clone (7.16)
+### Milk Pages(7.21)
 
-https://pixeldrain.com/u/TkcNzpmo
-
-### Body Measurement (7.16)
-
-https://pixeldrain.com/u/Vwq45tMc
+https://pixeldrain.com/u/mZ2dWZWe

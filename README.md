@@ -1,13 +1,16 @@
 
 # url
 
-## ProxyGen (8.15)
+### local_agent 8.29
 
-https://github.com/creativekdev/ProxyGen
+### llama.cpp 8.29
 
-https://pixeldrain.com/u/7tBHCcxt
+https://pixeldrain.com/u/QLiFwLbJ
 
+### openwebui 8.29
 
-### ProxyGen (7.24)
+https://pixeldrain.com/u/wyxaUobD
 
-https://pixeldrain.com/u/zJNg8iTq
+### LMStudio  8.29
+
+https://pixeldrain.com/u/cNpTcjW5
